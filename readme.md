@@ -1,3 +1,6 @@
+Note from Clint Myers: these were originally copied from a codepen so that I may alter the design for future use. I take no responsibility or credit for the creation of these buttons, but do intend on altering the styling for fun, personal, and non-profit uses.
+
+
 /*
 
 Thanks for all the comments and suggestions!
